@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Shipping_Quote\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4849D917-1498-4B98-83CB-A107C681052D}|Shipping_Quote\\Shipping_Quote.csproj|c:\\users\\anna\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\shipping_quote\\shipping_quote\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4849D917-1498-4B98-83CB-A107C681052D}|Shipping_Quote\\Shipping_Quote.csproj|solutionrelative:shipping_quote\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Shipping_Quote\\Shipping_Quote\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shipping_Quote\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "Shipping_Quote\\Program.cs",
               "ToolTip": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Shipping_Quote\\Shipping_Quote\\Program.cs",
               "RelativeToolTip": "Shipping_Quote\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBMAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-13T23:15:59.185Z",
               "EditorCaption": ""
