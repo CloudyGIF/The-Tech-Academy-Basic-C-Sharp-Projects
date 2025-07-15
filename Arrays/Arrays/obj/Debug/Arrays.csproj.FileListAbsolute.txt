@@ -1,0 +1,8 @@
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Arrays\Arrays\obj\Debug\Arrays.pdb
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Arrays\Arrays\obj\Debug\Arrays.exe.config
