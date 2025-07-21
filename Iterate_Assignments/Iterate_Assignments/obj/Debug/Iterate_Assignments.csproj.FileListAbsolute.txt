@@ -1,0 +1,8 @@
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iterate_Assignments\Iterate_Assignments\bin\Debug\Iterate_Assignments.exe.config
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iterate_Assignments\Iterate_Assignments\bin\Debug\Iterate_Assignments.exe
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iterate_Assignments\Iterate_Assignments\bin\Debug\Iterate_Assignments.pdb
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iterate_Assignments\Iterate_Assignments\obj\Debug\Iterate_Assignments.csproj.AssemblyReference.cache
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iterate_Assignments\Iterate_Assignments\obj\Debug\Iterate_Assignments.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iterate_Assignments\Iterate_Assignments\obj\Debug\Iterate_Assignments.exe
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iterate_Assignments\Iterate_Assignments\obj\Debug\Iterate_Assignments.pdb
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iterate_Assignments\Iterate_Assignments\obj\Debug\Iterate_Assignments.exe.config
