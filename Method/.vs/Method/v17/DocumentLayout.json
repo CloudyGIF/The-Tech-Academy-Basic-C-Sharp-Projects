@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Method\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0DA86ABE-3228-4AA6-989A-23B1BFC7903B}|Method\\Method.csproj|C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Method\\method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA86ABE-3228-4AA6-989A-23B1BFC7903B}|Method\\Method.csproj|solutionrelative:method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0DA86ABE-3228-4AA6-989A-23B1BFC7903B}|Method\\Method.csproj|c:\\users\\anna\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\method\\method\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0DA86ABE-3228-4AA6-989A-23B1BFC7903B}|Method\\Method.csproj|solutionrelative:method\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DA86ABE-3228-4AA6-989A-23B1BFC7903B}|Method\\Method.csproj|c:\\users\\anna\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\method\\method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DA86ABE-3228-4AA6-989A-23B1BFC7903B}|Method\\Method.csproj|solutionrelative:method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0DA86ABE-3228-4AA6-989A-23B1BFC7903B}|Method\\Method.csproj|c:\\users\\anna\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\method\\method\\math2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA86ABE-3228-4AA6-989A-23B1BFC7903B}|Method\\Method.csproj|solutionrelative:method\\math2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Math2.cs",
+              "DocumentMoniker": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Method\\Method\\Math2.cs",
+              "RelativeDocumentMoniker": "Method\\Math2.cs",
+              "ToolTip": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Method\\Method\\Math2.cs",
+              "RelativeToolTip": "Method\\Math2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T22:42:03.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Math.cs",
               "DocumentMoniker": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Method\\Method\\Math.cs",
               "RelativeDocumentMoniker": "Method\\Math.cs",
               "ToolTip": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Method\\Method\\Math.cs",
               "RelativeToolTip": "Method\\Math.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAABUAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T22:24:38.891Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Method\\Method\\Program.cs",
               "RelativeDocumentMoniker": "Method\\Program.cs",
               "ToolTip": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Method\\Method\\Program.cs",
               "RelativeToolTip": "Method\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABYAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T22:23:12.055Z",
               "EditorCaption": ""
