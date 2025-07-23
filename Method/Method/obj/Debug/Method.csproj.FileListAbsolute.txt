@@ -1,0 +1,7 @@
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method\Method\bin\Debug\Method.exe.config
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method\Method\bin\Debug\Method.exe
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method\Method\bin\Debug\Method.pdb
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method\Method\obj\Debug\Method.csproj.AssemblyReference.cache
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method\Method\obj\Debug\Method.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method\Method\obj\Debug\Method.exe
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method\Method\obj\Debug\Method.pdb
