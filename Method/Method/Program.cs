@@ -46,6 +46,12 @@ namespace Method
 
             Console.WriteLine(result4);
 
+            Math3 class_instance3 = new Math3(); //initialized class Math3
+
+            class_instance3.Operation(10, 20); //calls the void method
+
+            Console.ReadLine();
+
             
             
 
