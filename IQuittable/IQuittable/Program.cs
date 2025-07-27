@@ -18,6 +18,24 @@ namespace IQuittable
             Employee2.Quit(); //intreface method
 
             Employee1.SayName(); //calls sayname method
+
+
+
+            //Overload operator assignment
+
+            Employee1.id = 1; //sets the id property for employee 1
+
+            Employee Employee3 = new Employee { FirstName = "Sample", LastName = "Student", id = 2 }; //initializes employee3
+
+            if(Employee1 == Employee3) //uses the overridden == operator for an expression 
+            {
+                Console.WriteLine("These two employees are the same!");
+            }
+            else
+            {
+                Console.WriteLine("These two employees are different!");
+            }
+
         }
     }
 }
