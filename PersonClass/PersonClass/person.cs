@@ -6,15 +6,13 @@ using System.Threading.Tasks;
 
 namespace PersonClass
 {
-    public class person
+    public abstract class person
     {
         public string FirstName { get; set; } //first name and last name properties
         public string LastName { get; set; }
 
-        public void SayName() //void method
-        {
-            Console.WriteLine("Name: " + FirstName + " " + LastName);
-        }
+        public abstract void SayName(); //void abstract method
+        
 
         
 

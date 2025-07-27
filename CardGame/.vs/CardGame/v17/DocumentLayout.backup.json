@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CardGame\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8EE70E4D-0B83-482C-882E-38DA30108B65}|CardGame\\CardGame.csproj|c:\\users\\anna\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\cardgame\\cardgame\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE70E4D-0B83-482C-882E-38DA30108B65}|CardGame\\CardGame.csproj|solutionrelative:cardgame\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE70E4D-0B83-482C-882E-38DA30108B65}|CardGame\\CardGame.csproj|c:\\users\\anna\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\cardgame\\cardgame\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE70E4D-0B83-482C-882E-38DA30108B65}|CardGame\\CardGame.csproj|solutionrelative:cardgame\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE70E4D-0B83-482C-882E-38DA30108B65}|CardGame\\CardGame.csproj|C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CardGame\\cardgame\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE70E4D-0B83-482C-882E-38DA30108B65}|CardGame\\CardGame.csproj|solutionrelative:cardgame\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE70E4D-0B83-482C-882E-38DA30108B65}|CardGame\\CardGame.csproj|C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CardGame\\cardgame\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE70E4D-0B83-482C-882E-38DA30108B65}|CardGame\\CardGame.csproj|solutionrelative:cardgame\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE70E4D-0B83-482C-882E-38DA30108B65}|CardGame\\CardGame.csproj|c:\\users\\anna\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\cardgame\\cardgame\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE70E4D-0B83-482C-882E-38DA30108B65}|CardGame\\CardGame.csproj|solutionrelative:cardgame\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8EE70E4D-0B83-482C-882E-38DA30108B65}|CardGame\\CardGame.csproj|c:\\users\\anna\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\cardgame\\cardgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EE70E4D-0B83-482C-882E-38DA30108B65}|CardGame\\CardGame.csproj|solutionrelative:cardgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EE70E4D-0B83-482C-882E-38DA30108B65}|CardGame\\CardGame.csproj|c:\\users\\anna\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\cardgame\\cardgame\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EE70E4D-0B83-482C-882E-38DA30108B65}|CardGame\\CardGame.csproj|solutionrelative:cardgame\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EE70E4D-0B83-482C-882E-38DA30108B65}|CardGame\\CardGame.csproj|c:\\users\\anna\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\cardgame\\cardgame\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EE70E4D-0B83-482C-882E-38DA30108B65}|CardGame\\CardGame.csproj|solutionrelative:cardgame\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EE70E4D-0B83-482C-882E-38DA30108B65}|CardGame\\CardGame.csproj|c:\\users\\anna\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\cardgame\\cardgame\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE70E4D-0B83-482C-882E-38DA30108B65}|CardGame\\CardGame.csproj|solutionrelative:cardgame\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,24 +38,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dealer.cs",
+              "DocumentMoniker": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CardGame\\CardGame\\Dealer.cs",
+              "RelativeDocumentMoniker": "CardGame\\Dealer.cs",
+              "ToolTip": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CardGame\\CardGame\\Dealer.cs",
+              "RelativeToolTip": "CardGame\\Dealer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:14:06.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CardGame\\CardGame\\Player.cs",
+              "RelativeDocumentMoniker": "CardGame\\Player.cs",
+              "ToolTip": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CardGame\\CardGame\\Player.cs",
+              "RelativeToolTip": "CardGame\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:12:56.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TwentyOneGame.cs",
+              "DocumentMoniker": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CardGame\\CardGame\\TwentyOneGame.cs",
+              "RelativeDocumentMoniker": "CardGame\\TwentyOneGame.cs",
+              "ToolTip": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CardGame\\CardGame\\TwentyOneGame.cs",
+              "RelativeToolTip": "CardGame\\TwentyOneGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:07:19.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CardGame\\CardGame\\Game.cs",
+              "RelativeDocumentMoniker": "CardGame\\Game.cs",
+              "ToolTip": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CardGame\\CardGame\\Game.cs",
+              "RelativeToolTip": "CardGame\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:04:06.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Deck.cs",
               "DocumentMoniker": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CardGame\\CardGame\\Deck.cs",
               "RelativeDocumentMoniker": "CardGame\\Deck.cs",
               "ToolTip": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CardGame\\CardGame\\Deck.cs",
               "RelativeToolTip": "CardGame\\Deck.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-21T01:25:03.992Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Card.cs",
               "DocumentMoniker": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CardGame\\CardGame\\Card.cs",
               "RelativeDocumentMoniker": "CardGame\\Card.cs",
@@ -52,13 +120,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CardGame\\CardGame\\Program.cs",
               "RelativeDocumentMoniker": "CardGame\\Program.cs",
               "ToolTip": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CardGame\\CardGame\\Program.cs",
               "RelativeToolTip": "CardGame\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-21T01:18:53.373Z",
               "EditorCaption": ""

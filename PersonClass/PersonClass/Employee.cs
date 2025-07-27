@@ -6,9 +6,14 @@ using System.Threading.Tasks;
 
 namespace PersonClass
 {
-    internal class Employee : person //inherited class from person
+    public class Employee : person //inherited class from person
     {
         private int id {  get; set; } //class specific property
+
+        public override void SayName()
+        {
+            Console.WriteLine("Name: " + FirstName + " " + LastName); //abstract method override
+        }
 
     }
 }
