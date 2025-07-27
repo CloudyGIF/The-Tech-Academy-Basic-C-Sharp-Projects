@@ -10,11 +10,9 @@ namespace PersonClass
     {
         static void Main(string[] args)
         {
-            Employee Employee1 = new Employee(); //initializes the employee class instance
+            Employee Employee1 = new Employee { FirstName = "Sample", LastName = "Student"}; //initializes the employee class instance
 
-            Employee1.FirstName = "Sample"; //sets the first and last name for the instance
-            Employee1.LastName = "Student";
-
+ 
             Employee1.SayName(); //calls sayname method
         }
     }

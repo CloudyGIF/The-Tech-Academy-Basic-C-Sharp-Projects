@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\PersonClass\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4D1E5B6-D28D-4FF8-B71A-0F1D641B0F84}|PersonClass\\PersonClass.csproj|C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\PersonClass\\personclass\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4D1E5B6-D28D-4FF8-B71A-0F1D641B0F84}|PersonClass\\PersonClass.csproj|solutionrelative:personclass\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4D1E5B6-D28D-4FF8-B71A-0F1D641B0F84}|PersonClass\\PersonClass.csproj|c:\\users\\anna\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\personclass2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4D1E5B6-D28D-4FF8-B71A-0F1D641B0F84}|PersonClass\\PersonClass.csproj|C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\PersonClass\\personclass\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4D1E5B6-D28D-4FF8-B71A-0F1D641B0F84}|PersonClass\\PersonClass.csproj|solutionrelative:personclass\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4D1E5B6-D28D-4FF8-B71A-0F1D641B0F84}|PersonClass\\PersonClass.csproj|c:\\users\\anna\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\personclass2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4D1E5B6-D28D-4FF8-B71A-0F1D641B0F84}|PersonClass\\PersonClass.csproj|C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\PersonClass\\personclass\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D1E5B6-D28D-4FF8-B71A-0F1D641B0F84}|PersonClass\\PersonClass.csproj|solutionrelative:personclass\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,17 +21,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\PersonClass\\PersonClass\\Employee.cs",
               "RelativeDocumentMoniker": "PersonClass\\Employee.cs",
               "ToolTip": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\PersonClass\\PersonClass\\Employee.cs",
               "RelativeToolTip": "PersonClass\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-27T11:31:24.586Z",
               "EditorCaption": ""
@@ -44,20 +44,20 @@
               "RelativeDocumentMoniker": "PersonClass\\person.cs",
               "ToolTip": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\PersonClass\\PersonClass\\person.cs",
               "RelativeToolTip": "PersonClass\\person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-27T11:28:32.415Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "PersonClass2.cs",
               "DocumentMoniker": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\PersonClass2.cs",
               "RelativeDocumentMoniker": "..\\PersonClass2.cs",
               "ToolTip": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\PersonClass2.cs",
               "RelativeToolTip": "..\\PersonClass2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-27T11:20:51.286Z",
               "EditorCaption": ""
