@@ -1,0 +1,7 @@
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PersonClass3\PersonClass2\bin\Debug\PersonClass2.exe.config
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PersonClass3\PersonClass2\bin\Debug\PersonClass2.exe
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PersonClass3\PersonClass2\bin\Debug\PersonClass2.pdb
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PersonClass3\PersonClass2\obj\Debug\PersonClass2.csproj.AssemblyReference.cache
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PersonClass3\PersonClass2\obj\Debug\PersonClass2.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PersonClass3\PersonClass2\obj\Debug\PersonClass2.exe
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PersonClass3\PersonClass2\obj\Debug\PersonClass2.pdb
