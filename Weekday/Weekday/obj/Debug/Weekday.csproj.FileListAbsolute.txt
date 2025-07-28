@@ -1,0 +1,8 @@
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Weekday\Weekday\bin\Debug\Weekday.exe.config
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Weekday\Weekday\bin\Debug\Weekday.exe
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Weekday\Weekday\bin\Debug\Weekday.pdb
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Weekday\Weekday\obj\Debug\Weekday.csproj.AssemblyReference.cache
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Weekday\Weekday\obj\Debug\Weekday.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Weekday\Weekday\obj\Debug\Weekday.exe
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Weekday\Weekday\obj\Debug\Weekday.pdb
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Weekday\Weekday\obj\Debug\Weekday.exe.config
