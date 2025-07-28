@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\IQuittable\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3456EE56-1363-41E0-B876-FB28178EAF04}|IQuittable\\IQuittable.csproj|c:\\users\\anna\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\iquittable\\iquittable\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3456EE56-1363-41E0-B876-FB28178EAF04}|IQuittable\\IQuittable.csproj|solutionrelative:iquittable\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3456EE56-1363-41E0-B876-FB28178EAF04}|IQuittable\\IQuittable.csproj|C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\IQuittable\\iquittable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3456EE56-1363-41E0-B876-FB28178EAF04}|IQuittable\\IQuittable.csproj|solutionrelative:iquittable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3456EE56-1363-41E0-B876-FB28178EAF04}|IQuittable\\IQuittable.csproj|c:\\users\\anna\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\iquittable\\iquittable\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3456EE56-1363-41E0-B876-FB28178EAF04}|IQuittable\\IQuittable.csproj|solutionrelative:iquittable\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3456EE56-1363-41E0-B876-FB28178EAF04}|IQuittable\\IQuittable.csproj|C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\IQuittable\\iquittable\\iquittable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -54,26 +54,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\IQuittable\\IQuittable\\Employee.cs",
               "RelativeDocumentMoniker": "IQuittable\\Employee.cs",
               "ToolTip": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\IQuittable\\IQuittable\\Employee.cs",
               "RelativeToolTip": "IQuittable\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-27T20:05:12.578Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\IQuittable\\IQuittable\\Program.cs",
               "RelativeDocumentMoniker": "IQuittable\\Program.cs",
               "ToolTip": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\IQuittable\\IQuittable\\Program.cs",
               "RelativeToolTip": "IQuittable\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-27T20:01:03.033Z",
               "EditorCaption": ""
