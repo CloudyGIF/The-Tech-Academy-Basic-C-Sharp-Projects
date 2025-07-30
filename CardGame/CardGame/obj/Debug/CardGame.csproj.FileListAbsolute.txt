@@ -1,0 +1,8 @@
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CardGame\CardGame\bin\Debug\CardGame.exe.config
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CardGame\CardGame\bin\Debug\CardGame.exe
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CardGame\CardGame\bin\Debug\CardGame.pdb
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CardGame\CardGame\obj\Debug\CardGame.csproj.AssemblyReference.cache
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CardGame\CardGame\obj\Debug\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CardGame\CardGame\obj\Debug\CardGame.exe
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CardGame\CardGame\obj\Debug\CardGame.pdb
+C:\Users\Anna\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CardGame\CardGame\obj\Debug\CardGame.exe.config

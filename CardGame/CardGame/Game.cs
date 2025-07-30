@@ -8,9 +8,13 @@ namespace CardGame
 {
     public abstract class Game
     {
-        public List<Player> Players { get; set; }
+
+        private List<Player> _players = new List<Player>(); 
+
+        public List<Player> Players { get ; set; }
         public List<string> Name { get; set; }
-        public string Dealer { get; set; }
+       
+        public Dictionary<Player, int> Bets { get; set; }
 
         public abstract void Play();
         public virtual void ListPlayers()
