@@ -11,13 +11,13 @@ namespace constructor
         static void Main(string[] args)
         {
 
-            const int num = 10;
+            const int num = 10; 
 
             var animal = "dog";
 
-            string result = num + " " + animal + "s";
+            Animal animal1 = new Animal(animal, num); //chained constructor initalized 
 
-            Console.WriteLine(result);
+            Console.WriteLine(animal1.Name + " " +  animal1.Type);
         }
 
 

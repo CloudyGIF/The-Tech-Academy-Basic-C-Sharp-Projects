@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3FB8529C-4190-4ABF-8E28-26FECBCF7A12}</ProjectGuid>
+    <ProjectGuid>{029D7056-6B62-4368-A0B0-20C717BB15C7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>constructor</RootNamespace>
-    <AssemblyName>constructor</AssemblyName>
+    <RootNamespace>TryCatch</RootNamespace>
+    <AssemblyName>TryCatch</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Animal.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
