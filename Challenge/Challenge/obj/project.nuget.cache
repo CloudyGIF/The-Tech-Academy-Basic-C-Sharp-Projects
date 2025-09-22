@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bgxVpEz1Me0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Challenge\\Challenge\\Challenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anna\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.20\\microsoft.windowsdesktop.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\Anna\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.20\\microsoft.netcore.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\Anna\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.20\\microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\Anna\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.20\\microsoft.netcore.app.host.win-x64.8.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

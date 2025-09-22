@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Challenge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74B63859-B1C0-4483-9985-837C7E268B78}|Challenge\\Challenge.csproj|c:\\users\\anna\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\challenge\\challenge\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74B63859-B1C0-4483-9985-837C7E268B78}|Challenge\\Challenge.csproj|solutionrelative:challenge\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B63859-B1C0-4483-9985-837C7E268B78}|Challenge\\Challenge.csproj|c:\\users\\anna\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\challenge\\challenge\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B63859-B1C0-4483-9985-837C7E268B78}|Challenge\\Challenge.csproj|solutionrelative:challenge\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Challenge\\Challenge\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Challenge\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Challenge\\Challenge\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Challenge\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T22:01:50.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Challenge\\Challenge\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Challenge\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Challenge\\Challenge\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Challenge\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T21:33:25.218Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

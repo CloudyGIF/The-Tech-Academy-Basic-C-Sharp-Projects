@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\StudentDatabase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE663904-BBB3-4A3D-9110-E15A9216BD89}|StudentDatabase\\StudentDatabase.csproj|c:\\users\\anna\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\studentdatabase\\studentdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE663904-BBB3-4A3D-9110-E15A9216BD89}|StudentDatabase\\StudentDatabase.csproj|solutionrelative:studentdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE663904-BBB3-4A3D-9110-E15A9216BD89}|StudentDatabase\\StudentDatabase.csproj|c:\\users\\anna\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\studentdatabase\\studentdatabase\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE663904-BBB3-4A3D-9110-E15A9216BD89}|StudentDatabase\\StudentDatabase.csproj|solutionrelative:studentdatabase\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE663904-BBB3-4A3D-9110-E15A9216BD89}|StudentDatabase\\StudentDatabase.csproj|c:\\users\\anna\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\studentdatabase\\studentdatabase\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE663904-BBB3-4A3D-9110-E15A9216BD89}|StudentDatabase\\StudentDatabase.csproj|solutionrelative:studentdatabase\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\StudentDatabase\\StudentDatabase\\StudentContext.cs",
+              "RelativeDocumentMoniker": "StudentDatabase\\StudentContext.cs",
+              "ToolTip": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\StudentDatabase\\StudentDatabase\\StudentContext.cs",
+              "RelativeToolTip": "StudentDatabase\\StudentContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T00:02:23.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\StudentDatabase\\StudentDatabase\\Student.cs",
+              "RelativeDocumentMoniker": "StudentDatabase\\Student.cs",
+              "ToolTip": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\StudentDatabase\\StudentDatabase\\Student.cs",
+              "RelativeToolTip": "StudentDatabase\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T00:02:05.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\StudentDatabase\\StudentDatabase\\Program.cs",
+              "RelativeDocumentMoniker": "StudentDatabase\\Program.cs",
+              "ToolTip": "C:\\Users\\Anna\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\StudentDatabase\\StudentDatabase\\Program.cs",
+              "RelativeToolTip": "StudentDatabase\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAewBQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T00:00:17.379Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
